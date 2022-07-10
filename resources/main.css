@@ -1,0 +1,38 @@
+header,
+input,
+button {
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+}
+
+header {
+    font-weight: bold;
+    font-size: 300%;
+    border-radius: 10%;
+}
+
+button {
+    background-color: silver;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    border-radius: 20%;
+}
+
+input {
+    border: solid;
+}
+
+div {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    font-weight: bold;
+    font-size: 150%;
+    color: brown;
+}
+
+#output {
+    color: maroon;
+}
